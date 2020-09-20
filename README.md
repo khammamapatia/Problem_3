@@ -1,5 +1,5 @@
 # Problem_3
-isOnline:
+healthStatus:
 Script for scheduled check of websites availability and mail report. Suited for crontab job.
 
 Config:
