@@ -1,4 +1,6 @@
 # Problem_3
+isOnline:
+Script for scheduled check of websites availability and mail report. Suited for crontab job.
 
 Config:
 Create emails.lst file and fill it with each email in new line (as in emails.lst.example). leave an empty line in the end.
