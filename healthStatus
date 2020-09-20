@@ -2,12 +2,7 @@
 # Website status checker. by ET (etcs.me)
 
 WORKSPACE=/scripts/healthStatus
-# l
-
-
-
-
-t of websites. each website in new line. leave an empty line in the end.
+# list of websites. each website in new line. leave an empty line in the end.
 LISTFILE=$WORKSPACE/websites.lst
 # Send mail in case of failure to. leave an empty line in the end.
 EMAILLISTFILE=$WORKSPACE/emails.lst
